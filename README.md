@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Interested+in+AI+%7C+ML...;NIT+Trichy+Graduate&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1500" alt="Description Typing SVG">
   <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThilak-07%2FThilak-07&label=Profile Views&labelColor=%230A0209&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthilak-ganit%2Fthilak-ganit&label=Profile Views&labelColor=%230A0209&countColor=%230A0209" />
   <br>
   <a href="https://www.linkedin.com/in/thilakkumar-v-65610a200/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="mailto:vinaythilak002@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
